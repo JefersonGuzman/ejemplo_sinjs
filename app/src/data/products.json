@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Pimentón Rojo",
+            "price": 4,
+            "img": "https://megatiendas.vtexassets.com/arquivos/ids/164136-800-450?v=638284927727730000&width=800&height=450&aspect=true",
+            "category": "destacados"
+        },
+        {
+            "id": 2,
+            "name": "Tomate Chonto",
+            "price": 3,
+            "img": "https://ecommerce.surtifamiliar.com/backend/admin/backend/web/archivosDelCliente/items/images/Verduras-Verduras-a-Granel-TOMATE-CHONTO-A-GRANEL-326220201112180105.jpg",
+            "category": "destacados"
+        },
+        {
+            "id": 3,
+            "name": "Cebolla Cabezona Roja",
+            "price": 2,
+            "img": "https://www.comervipc.com/wp-content/uploads/2020/04/Cebolla_cabezona_roja_comervipc.jpg",
+            "category": "destacados"
+        },
+        {
+            "id": 4,
+            "name": "Papa Criolla",
+            "price": 5,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESnVQAi60AOSEwrjd87Aez92kOyM02qHD4A&s",
+            "category": "destacados"
+        },
+        {
+            "id": 11,
+            "name": "Cilantro",
+            "price": 1,
+            "img": "https://lavaquita.co/cdn/shop/products/b83b19a8-67e3-48e8-b2f3-9ecb24440722_700x700.png?v=1622197689",
+            "category": "ofertas"
+        },
+        {
+            "id": 12,
+            "name": "Cebolla Larga",
+            "price": 2,
+            "img": "https://villavoexpress.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzUxOTg1LCJwdXIiOiJibG9iX2lkIn19--f7f3921a2b1fb2507f52bc8ae6f66d6091235c72/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1420d7fd3d20057726f0ef3c0043db24ca0403be/cebollalarga_1024x.jpg?locale=es",
+            "category": "ofertas"
+        },
+        {
+            "id": 13,
+            "name": "Ajo (malla 5 unidades)",
+            "price": 3,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFj7m2Nz0HCNQ9M2I-Ij9z-mVtUATwGjzrA&s",
+            "category": "ofertas"
+        },
+        {
+            "id": 14,
+            "name": "Banano",
+            "price": 4,
+            "img": "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/6/69/Banana.png/300px-Banana.png",
+            "category": "ofertas"
+        },
+        {
+            "id": 21,
+            "name": "Berenjena",
+            "price": 3,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLKUw9vhNQLL1ZRjCvmOMoToV9rAjHHpkxw&s",
+            "category": "nuevos"
+        },
+        {
+            "id": 22,
+            "name": "Remolacha",
+            "price": 2,
+            "img": "https://agrosemval.com/wp-content/uploads/2020/05/remolacha-crosby-egipcia-ipc-01.jpg",
+            "category": "nuevos"
+        },
+        {
+            "id": 23,
+            "name": "Calabacín",
+            "price": 3,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5CvLYE20VRBIHBKVpj3ymmZ1kRT1mktO_NQ&s",
+            "category": "nuevos"
+        },
+        {
+            "id": 24,
+            "name": "Brócoli",
+            "price": 4,
+            "img": "https://images.cookforyourlife.org/wp-content/uploads/2018/08/shutterstock_294838064-min.jpg",
+            "category": "nuevos"
+        }
+    ]
+}
